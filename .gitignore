@@ -4,3 +4,10 @@
 
 # VS Code
 .vscode/
+
+# Compiled artifacts
+*.o
+*.out
+a.out
+*.exe
+main
