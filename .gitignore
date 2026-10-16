@@ -1,0 +1,6 @@
+# JetBrains IDEs (IntelliJ IDEA, CLion, PyCharm)
+.idea/
+*.iml
+
+# VS Code
+.vscode/
